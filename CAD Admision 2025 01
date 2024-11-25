@@ -1,0 +1,833 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html dir="ltr" lang="es" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta name="x-apple-disable-message-reformatting">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="telephone=no" name="format-detection">
+<title>Empty template</title><!--[if (mso 16)]>
+    <style type="text/css">
+    a {text-decoration: none;}
+    </style>
+    <![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]--><!--[if gte mso 9]>
+<noscript>
+         <xml>
+           <o:OfficeDocumentSettings>
+           <o:AllowPNG></o:AllowPNG>
+           <o:PixelsPerInch>96</o:PixelsPerInch>
+           </o:OfficeDocumentSettings>
+         </xml>
+      </noscript>
+<![endif]-->
+
+<style type="text/css">
+		.rollover:hover .rollover-first{
+			max-height:0px!important;
+			display:none!important;
+		}
+		.rollover:hover .rollover-second{
+			max-height:none!important;
+			display:block!important;
+		}
+		.rollover span{
+			font-size:0px;
+		}
+		u+.body img ~ div div{
+			display:none;
+		}
+		#outlook a{
+			padding:0;
+		}
+		span.MsoHyperlink,span.MsoHyperlinkFollowed{
+			color:inherit;
+			mso-style-priority:99;
+		}
+		a.es-button{
+			mso-style-priority:100!important;
+			text-decoration:none!important;
+		}
+		a[x-apple-data-detectors],#MessageViewBody a{
+			color:inherit!important;
+			text-decoration:none!important;
+			font-size:inherit!important;
+			font-family:inherit!important;
+			font-weight:inherit!important;
+			line-height:inherit!important;
+		}
+		.es-desk-hidden{
+			display:none;
+			float:left;
+			overflow:hidden;
+			width:0;
+			max-height:0;
+			line-height:0;
+			mso-hide:all;
+		}
+		.footer{
+			max-width:600px;
+			margin:0 auto;
+			text-align:center;
+			background-color:#005FAB;
+			color:#ffffff;
+		}
+		.footer img{
+			width:100%;
+			height:auto;
+			display:block;
+		}
+		.social-icons{
+			display:flex;
+			justify-content:center !important;
+		}
+		.social-icons a img{
+			width:26px;
+			height:26px;
+			padding-right:22px;
+			justify-content:center;
+		}
+	@media only screen and (max-width:600px){
+		.es-m-p30t{
+			padding-top:30px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-p20r{
+			padding-right:20px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-p30b{
+			padding-bottom:30px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-p20l{
+			padding-left:20px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-p20b{
+			padding-bottom:20px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-p25r{
+			padding-right:25px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-p25l{
+			padding-left:25px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-p5b{
+			padding-bottom:5px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		*[class=gmail-fix]{
+			display:none!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		p,a{
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		h1,h1 a{
+			line-height:120%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		h2,h2 a{
+			line-height:120%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		h3,h3 a{
+			line-height:120%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		h4,h4 a{
+			line-height:120%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		h5,h5 a{
+			line-height:120%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		h6,h6 a{
+			line-height:120%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		h1{
+			font-size:30px!important;
+			text-align:left;
+		}
+
+}	@media only screen and (max-width:600px){
+		h2{
+			font-size:24px!important;
+			text-align:left;
+		}
+
+}	@media only screen and (max-width:600px){
+		h3{
+			font-size:20px!important;
+			text-align:left;
+		}
+
+}	@media only screen and (max-width:600px){
+		h4{
+			font-size:24px!important;
+			text-align:left;
+		}
+
+}	@media only screen and (max-width:600px){
+		h5{
+			font-size:20px!important;
+			text-align:left;
+		}
+
+}	@media only screen and (max-width:600px){
+		h6{
+			font-size:16px!important;
+			text-align:left;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-header-body h1 a,.es-content-body h1 a,.es-footer-body h1 a{
+			font-size:30px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-header-body h2 a,.es-content-body h2 a,.es-footer-body h2 a{
+			font-size:24px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-header-body h3 a,.es-content-body h3 a,.es-footer-body h3 a{
+			font-size:20px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-header-body h4 a,.es-content-body h4 a,.es-footer-body h4 a{
+			font-size:24px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-header-body h5 a,.es-content-body h5 a,.es-footer-body h5 a{
+			font-size:20px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-header-body h6 a,.es-content-body h6 a,.es-footer-body h6 a{
+			font-size:16px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-menu td a{
+			font-size:14px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-header-body p,.es-header-body a{
+			font-size:14px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-content-body p,.es-content-body a{
+			font-size:14px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-footer-body p,.es-footer-body a{
+			font-size:14px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-infoblock p,.es-infoblock a{
+			font-size:12px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-txt-c,.es-m-txt-c h1,.es-m-txt-c h2,.es-m-txt-c h3,.es-m-txt-c h4,.es-m-txt-c h5,.es-m-txt-c h6{
+			text-align:center!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-txt-r,.es-m-txt-r h1,.es-m-txt-r h2,.es-m-txt-r h3,.es-m-txt-r h4,.es-m-txt-r h5,.es-m-txt-r h6{
+			text-align:right!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-txt-j,.es-m-txt-j h1,.es-m-txt-j h2,.es-m-txt-j h3,.es-m-txt-j h4,.es-m-txt-j h5,.es-m-txt-j h6{
+			text-align:justify!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-txt-l,.es-m-txt-l h1,.es-m-txt-l h2,.es-m-txt-l h3,.es-m-txt-l h4,.es-m-txt-l h5,.es-m-txt-l h6{
+			text-align:left!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-txt-r img,.es-m-txt-c img,.es-m-txt-l img{
+			display:inline!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-txt-r .rollover:hover .rollover-second,.es-m-txt-c .rollover:hover .rollover-second,.es-m-txt-l .rollover:hover .rollover-second{
+			display:inline!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-txt-r .rollover span,.es-m-txt-c .rollover span,.es-m-txt-l .rollover span{
+			line-height:0!important;
+			font-size:0!important;
+			display:block;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-spacer{
+			display:inline-table;
+		}
+
+}	@media only screen and (max-width:600px){
+		a.es-button,button.es-button{
+			font-size:18px!important;
+			padding:10px 20px 10px 20px!important;
+			line-height:120%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		a.es-button,button.es-button,.es-button-border{
+			display:inline-block!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-fw,.es-m-fw.es-fw,.es-m-fw .es-button{
+			display:block!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-m-il,.es-m-il .es-button,.es-social,.es-social td,.es-menu{
+			display:inline-block!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-adaptive table,.es-left,.es-right{
+			width:100%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-content table,.es-header table,.es-footer table,.es-content,.es-footer,.es-header{
+			width:100%!important;
+			max-width:600px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.adapt-img{
+			width:100%!important;
+			height:auto!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-mobile-hidden,.es-hidden{
+			display:none!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-desk-hidden{
+			width:auto!important;
+			overflow:visible!important;
+			float:none!important;
+			max-height:inherit!important;
+			line-height:inherit!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		tr.es-desk-hidden{
+			display:table-row!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		table.es-desk-hidden{
+			display:table!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		td.es-desk-menu-hidden{
+			display:table-cell!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-menu td{
+			width:1%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		table.es-table-not-adapt,.esd-block-html table{
+			width:auto!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.h-auto{
+			height:auto!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-3187 .es-text-mobile-size-18,.es-text-3187 .es-text-mobile-size-18 *{
+			font-size:18px!important;
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-2249 .es-text-mobile-size-18,.es-text-2249 .es-text-mobile-size-18 *{
+			font-size:18px!important;
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-8325 .es-text-mobile-size-18,.es-text-8325 .es-text-mobile-size-18 *{
+			font-size:18px!important;
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-9967 .es-text-mobile-size-18,.es-text-9967 .es-text-mobile-size-18 *{
+			font-size:18px!important;
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-4666 .es-text-mobile-size-18,.es-text-4666 .es-text-mobile-size-18 *{
+			font-size:18px!important;
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		a.es-button.es-button-9742{
+			font-size:14px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		a.es-button.es-button-4225{
+			font-size:14px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-4472 .es-text-mobile-size-14,.es-text-4472 .es-text-mobile-size-14 *{
+			font-size:14px!important;
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-8642 .es-text-mobile-size-14,.es-text-8642 .es-text-mobile-size-14 *{
+			font-size:14px!important;
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.img-9386{
+			width:170px!important;
+			height:auto!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-menu-2367.es-menu td a{
+			font-size:20px!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-5459 .es-text-mobile-size-22.es-override-size,.es-text-5459 .es-text-mobile-size-22.es-override-size *{
+			font-size:22px!important;
+			line-height:150%!important;
+		}
+
+}	@media only screen and (max-width:600px){
+		.es-text-5459 .es-text-mobile-size-22,.es-text-5459 .es-text-mobile-size-22 *{
+			font-size:22px!important;
+			line-height:150%!important;
+		}
+
+}	@media screen and (max-width:384px){
+		.mail-message-content{
+			width:414px!important;
+		}
+
+}</style></head>
+<body class="body" style="width:100%;height:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0">
+  <div class="es-wrapper-color" dir="ltr" lang="es" style="background-color:#F6F6F6"><!--[if gte mso 9]>
+			<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+				<v:fill type="tile" color="#f6f6f6"></v:fill>
+			</v:background>
+		<![endif]-->
+    <table cellpadding="0" cellspacing="0" class="es-wrapper" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background-repeat:repeat;background-position:center top;background-color:#F6F6F6" width="100%">
+      <tr>
+        <td style="padding:0;Margin:0" valign="top">
+          <table align="center" cellpadding="0" cellspacing="0" class="es-header" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:100%;table-layout:fixed !important;background-color:transparent;background-repeat:repeat;background-position:center top">
+            <tr>
+              <td align="center" style="padding:0;Margin:0">
+                <table align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="es-header-body" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                  <tr>
+                    <td align="left" style="padding:0;Margin:0;padding-top:20px;padding-right:20px;padding-left:20px">
+                      <table align="right" cellpadding="0" cellspacing="0" class="es-right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+                        <tr>
+                          <td align="left" style="padding:0;Margin:0;width:560px">
+                            <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="center" style="padding:0;Margin:0;font-size:0"><img alt="" class="adapt-img" height="275" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/849c0ebf-a17c-b33d-47e6-860d78eb5c27.png" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none;border-radius:30px" width="560"></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table align="center" cellpadding="0" cellspacing="0" class="es-content" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:100%;table-layout:fixed !important">
+            <tr>
+              <td align="center" style="padding:0;Margin:0">
+                <table align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="es-content-body" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                  <tr>
+                    <td align="left" data-custom-paddings="true" style="padding:20px;Margin:0">
+                      <table cellpadding="0" cellspacing="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                        <tr>
+                          <td align="center" style="padding:0;Margin:0;width:560px" valign="top">
+                            <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="left" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px">
+                                  <h1 style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:30px;font-style:normal;font-weight:normal;line-height:36px;color:#21a592">
+                                    <strong>¡Hola *|FNAME|*!</strong></h1>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="justify" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px">
+                                  <p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#333333;font-size:14px">
+                                    En IPCHILE Campus a Distancia, te brindamos una experiencia educativa innovadora,
+                                    accesible y alineada con el mercado laboral. Con más de 10 años de experiencia en
+                                    modalidad online, hemos transformado la educación superior en una oportunidad al
+                                    alcance de todos.</p>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" data-custom-paddings="true" style="padding:0;Margin:0;padding-right:20px;padding-left:20px">
+                      <table cellpadding="0" cellspacing="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                        <tr>
+                          <td align="left" style="padding:0;Margin:0;width:560px">
+                            <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="left" style="padding:0;Margin:0">
+                                  <h3 style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:normal;line-height:24px;color:#21a592">
+                                    <strong>¿Por qué elegirnos?</strong></h3>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" class="es-m-p20l es-m-p20r es-m-p30b es-m-p30t" data-custom-paddings="true" style="padding:0;Margin:0;padding-top:40px;padding-right:35px;padding-left:35px">
+                      <!--[if mso]><table style="width:530px" cellpadding="0" cellspacing="0"><tr><td style="width:258px" valign="top"><![endif]-->
+                      <table align="left" cellpadding="0" cellspacing="0" class="es-left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+                        <tr>
+                          <td align="left" class="es-m-p20b" style="padding:0;Margin:0;width:258px">
+                            <table cellpadding="0" cellspacing="0" class="es-table-not-adapt" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="left" style="padding:0;Margin:0;width:76px;font-size:0px" valign="top"><img alt="" height="61" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/146aa747-beb4-03a5-7013-c9dbd7fcf8ae.png" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="65"></td>
+                                <td align="left" style="padding:0;Margin:0">
+                                  <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                                    <tr>
+                                      <td align="left" class="es-text-2249" style="padding:0;Margin:0">
+                                        <h3 class="es-text-mobile-size-18" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:18px;font-style:normal;font-weight:normal;line-height:21.6px;color:#333333">
+                                          <strong> Facilidades <br> de ingreso y reconocimiento: </strong></h3>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" style="padding:0;Margin:0;padding-top:5px">
+                                        <p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#333333;font-size:14px">
+                                          Reconocemos títulos, convalidamos estudios y ofrecemos opciones de ingreso
+                                          flexibles.</p>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left" class="es-m-p20b" style="padding:0;Margin:0;width:258px">
+                            <table cellpadding="0" cellspacing="0" class="es-table-not-adapt" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if mso]></td><td style="width:15px"></td><td style="width:257px" valign="top"><![endif]-->
+                      <table align="right" cellpadding="0" cellspacing="0" class="es-right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+                        <tr>
+                          <td align="left" style="padding:0;Margin:0;width:257px">
+                            <table cellpadding="0" cellspacing="0" class="es-table-not-adapt" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="left" style="padding:0;Margin:0;width:76px;font-size:0px" valign="top"><img alt="" height="61" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/a0bb3fd3-66e5-9000-f147-66f53a7dd1fd.png" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="65"></td>
+                                <td align="left" style="padding:0;Margin:0">
+                                  <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                                    <tr>
+                                      <td align="left" class="es-text-3187" style="padding:0;Margin:0">
+                                        <h3 class="es-text-mobile-size-18" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:18px;font-style:normal;font-weight:normal;line-height:21.6px;color:#333333">
+                                          <strong> Modalidad a distancia con experiencia: </strong></h3>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" style="padding:0;Margin:0;padding-top:5px">
+                                        <p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#333333;font-size:14px">
+                                          Más de 10 años facilitando estudios compatibles con la vida laboral.</p>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table><!--[if mso]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" class="es-m-p20l es-m-p20r es-m-p30b es-m-p30t" data-custom-paddings="true" style="Margin:0;padding-top:40px;padding-right:35px;padding-left:35px;padding-bottom:20px">
+                      <!--[if mso]><table style="width:530px" cellpadding="0" cellspacing="0"><tr><td style="width:258px" valign="top"><![endif]-->
+                      <table align="left" cellpadding="0" cellspacing="0" class="es-left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+                        <tr>
+                          <td align="left" class="es-m-p20b" style="padding:0;Margin:0;width:258px">
+                            <table cellpadding="0" cellspacing="0" class="es-table-not-adapt" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="left" style="padding:0;Margin:0;width:76px;font-size:0px" valign="top"><img alt="" height="61" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/77d1ca05-bb72-4067-9621-2d995e059cd2.png" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="65"></td>
+                                <td align="left" style="padding:0;Margin:0">
+                                  <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                                    <tr>
+                                      <td align="left" class="es-text-4666" style="padding:0;Margin:0">
+                                        <h3 class="es-text-mobile-size-18" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:18px;font-style:normal;font-weight:normal;line-height:21.6px;color:#333333">
+                                          <strong> Acreditación sólida</strong></h3>
+                                        <h3 class="es-text-mobile-size-18" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:18px;font-style:normal;font-weight:normal;line-height:21.6px;color:#333333">
+                                          <strong>y becas exclusivas: </strong></h3>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" style="padding:0;Margin:0;padding-top:5px">
+                                        <p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#333333;font-size:14px">
+                                          Institución acreditada por 4 años, con becas internas como STEM, dirigida a
+                                          mujeres distintas areas.</p>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if mso]></td><td style="width:15px"></td><td style="width:257px" valign="top"><![endif]-->
+                      <table align="right" cellpadding="0" cellspacing="0" class="es-right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+                        <tr>
+                          <td align="left" style="padding:0;Margin:0;width:257px">
+                            <table cellpadding="0" cellspacing="0" class="es-table-not-adapt" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="left" style="padding:0;Margin:0;width:76px;font-size:0px" valign="top"><img alt="" height="61" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/78ac79a9-8096-d571-bb70-c44641ab9786.png" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="65"></td>
+                                <td align="left" style="padding:0;Margin:0">
+                                  <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                                    <tr>
+                                      <td align="left" class="es-text-9967" style="padding:0;Margin:0">
+                                        <h3 class="es-text-mobile-size-18" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:18px;font-style:normal;font-weight:normal;line-height:21.6px;color:#333333">
+                                          <strong>Oferta Académica de calidad:</strong></h3>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" style="padding:0;Margin:0;padding-top:5px">
+                                        <p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#333333;font-size:14px">
+                                          Ofrecemos más de 36 carreras en Administración, Negocios, Humanidades,
+                                          Ingeniería y Procesos Industriales.</p>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table><!--[if mso]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table align="center" cellpadding="0" cellspacing="0" class="es-content" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:100%;table-layout:fixed !important">
+            <tr>
+              <td align="center" style="padding:0;Margin:0">
+                <table align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="es-content-body" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table align="center" cellpadding="0" cellspacing="0" class="es-content" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:100%;table-layout:fixed !important">
+            <tr>
+              <td align="center" bgcolor="transparent" style="padding:0;Margin:0">
+                <table align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="es-content-body" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table align="center" cellpadding="0" cellspacing="0" class="es-content" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:100%;table-layout:fixed !important">
+            <tr>
+              <td align="center" bgcolor="transparent" style="padding:0;Margin:0">
+                <table align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="es-content-body" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;width:600px">
+                  <tr>
+                    <td align="left" data-custom-paddings="true" style="padding:0;Margin:0">
+                      <table align="right" cellpadding="0" cellspacing="0" class="es-right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right" width="100%">
+                        <tr>
+                          <td align="left" style="padding:0;Margin:0;width:600px">
+                            <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="center" style="padding:0;Margin:0;font-size:0"><img alt="" class="adapt-img" height="45" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/535091b4-fed2-1d06-6912-4a38da51ac6d.png" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="600"></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" bgcolor="#45C2B1" class="es-m-p25l es-m-p25r" data-custom-paddings="true" style="Margin:0;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:44px;background-color:#45C2B1">
+                      <table align="right" cellpadding="0" cellspacing="0" class="es-right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right" width="100%">
+                        <tr>
+                          <td align="left" style="padding:0;Margin:0;width:550px">
+                            <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td style="padding:0;Margin:0">
+                                  <table cellpadding="0" cellspacing="0" class="es-menu es-menu-2367" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                                    <tr class="links-images-left">
+                                      <td align="left" class="es-m-p5b" style="padding:0;Margin:0;border:0;padding-bottom:10px;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#fff;font-size:18px;" valign="top" width="100.00%"><img alt="" height="25" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/009612ed-8859-4b4b-99ae-f8c651b90633.png" style="display:inline !important;font-size:14px;border:0;outline:none;text-decoration:none;vertical-align:middle;padding-right:5px" title="Prepárate para el 2025:" width="24">Prepárate para el 2025:
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="es-text-5459" style="padding:0;Margin:0">
+                                  <p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#333333;font-size:14px">
+                                  </p><span class="es-text-mobile-size-22" style="font-size:22px;color:#ffffff;font-family:arial, 'helvetica neue', helvetica, sans-serif">
+                                    La educación a distancia es el futuro, y en <strong>IPCHILE Campus a
+                                      Distancia</strong> lo llevamos al siguiente nivel.</span>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" data-custom-paddings="true" style="padding:0;Margin:0">
+                      <table align="right" cellpadding="0" cellspacing="0" class="es-right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right" width="100%">
+                        <tr>
+                          <td align="left" style="padding:0;Margin:0;width:600px">
+                            <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="center" style="padding:0;Margin:0;font-size:0"><img alt="" class="adapt-img" height="45" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/ac3e2e69-26ee-289e-c717-315826cd5e26.png" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="600"></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" data-custom-paddings="true" style="padding:50px 20px;Margin:0">
+                      <!--[if mso]><table style="width:560px" cellpadding="0" cellspacing="0"><tr><td style="width:270px" valign="top"><![endif]-->
+                      <table align="left" cellpadding="0" cellspacing="0" class="es-left" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:left">
+                        <tr>
+                          <td align="left" class="es-m-p20b" style="padding:0;Margin:0;width:270px">
+                            <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="center" style="padding:0;Margin:0"><span class="es-button-border" style="border-style:solid;border-color:#005FAB;background:#005FAB;border-width:0px 0px 2px 0px;display:inline-block;border-radius:30px;width:auto"><a class="es-button" href="https://www.ipchile.cl/encuentra-tu-carrera/" style="mso-style-priority:100 !important;text-decoration:none !important;mso-line-height-rule:exactly;color:#ffffff;font-size:16px;padding:10px 30px;display:inline-block;background:#005FAB;border-radius:30px;font-family:arial, 'helvetica neue', helvetica, sans-serif;font-weight:normal;font-style:normal;line-height:19.2px;width:auto;text-align:center;letter-spacing:0;mso-padding-alt:0;mso-border-alt:10px solid #005FAB" target="_blank">Revisa Nuestras Carreras</a></span></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if mso]></td><td style="width:20px"></td><td style="width:270px" valign="top"><![endif]-->
+                      <table align="right" cellpadding="0" cellspacing="0" class="es-right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+                        <tr>
+                          <td align="left" style="padding:0;Margin:0;width:270px">
+                            <table cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px" width="100%">
+                              <tr>
+                                <td align="center" style="padding:0;Margin:0"><span class="es-button-border" style="border-style:solid;border-color:#25d366;background:#25d366;border-width:0px 0px 2px 0px;display:inline-block;border-radius:30px;width:auto"><a class="es-button" href="https://wa.link/8mwa63" style="mso-style-priority:100 !important;text-decoration:none !important;mso-line-height-rule:exactly;color:#FFFFFF;font-size:16px;padding:10px 30px;display:inline-block;background:#25d366;border-radius:30px;font-family:arial, 'helvetica neue', helvetica, sans-serif;font-weight:normal;font-style:normal;line-height:19.2px;width:auto;text-align:center;letter-spacing:0;mso-padding-alt:0;mso-border-alt:10px solid #25d366" target="_blank"><img alt="WhatsApp Icon" src="https://cdn-icons-png.flaticon.com/512/124/124034.png" style="vertical-align: middle; margin-right: 10px;" width="20">Contactar por
+                                      WhatsApp </a></span></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table><!--[if mso]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <!-- Footer -->
+          <div class="footer">
+              <img alt="Instituto Profesional de Chile" src="https://mcusercontent.com/a06eef2c1d89e5d5e00aca384/images/fa90713e-879c-9749-90d9-8648eae0347a.png">
+          </div>
+          <table cellspacing="0" cellpadding="0" align="center" class="es-footer" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;width:100%;table-layout:fixed !important;background-color:transparent;background-repeat:repeat;background-position:center top">
+            <tr>
+             <td align="center" bgcolor="transparent" style="padding:0;Margin:0">
+              <table cellspacing="0" bgcolor="#005FAB" align="center" cellpadding="0" class="es-footer-body" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#005FAB;width:600px" role="none">
+                <tr>
+                 <td align="left" class="es-m-p20l es-m-p20r" data-custom-paddings="true" style="Margin:0;padding-left:30px;padding-top:15px;padding-right:30px;padding-bottom:15px">
+                  <table width="100%" cellpadding="0" cellspacing="0" align="right" class="es-right" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;float:right">
+                    <tr>
+                     <td align="left" style="padding:0;Margin:0;width:540px">
+                      <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                        <tr>
+                         <td align="center" style="padding:0;Margin:0;font-size:0">
+                          <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+                            <tr>
+                             <td align="center" valign="top" style="padding:0;Margin:0;padding-right:13px"><a href="https://www.instagram.com/ipchileadmision?igsh=MTViOGRjamluODRhZQ==" target="_blank"><img width="32" height="32" title="Instagram" src="https://fljpaoc.stripocdn.email/content/assets/img/social-icons/logo-white/instagram-logo-white.png" alt="Ig" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"> </a></td>
+                             <td align="center" valign="top" style="padding:0;Margin:0;padding-right:13px"><a href="https://www.facebook.com/ipchile.admision.nacional/" target="_blank"><img width="32" height="32" title="Facebook" src="https://fljpaoc.stripocdn.email/content/assets/img/social-icons/logo-white/facebook-logo-white.png" alt="Fb" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"> </a></td>
+                             <td align="center" valign="top" style="padding:0;Margin:0;padding-right:13px"><a href="https://www.tiktok.com/@ipchile_oficial" target="_blank"><img alt="Tt" width="32" height="32" title="TikTok" src="https://fljpaoc.stripocdn.email/content/assets/img/social-icons/logo-white/tiktok-logo-white.png" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"> </a></td>
+                             <td align="center" valign="top" style="padding:0;Margin:0;padding-right:10px"><a href="https://x.com/ipchile" target="_blank"><img src="https://fljpaoc.stripocdn.email/content/assets/img/social-icons/logo-white/x-logo-white.png" alt="X" width="32" height="32" title="X" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"> </a></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table></td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>
